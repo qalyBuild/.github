@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/qalyBuild/.github/main/profile/qalybuild-banner.png" alt="qalyBuild" width="100%">
+<img src="https://raw.githubusercontent.com/qalyBuild/.github/main/profile/qalybuild-banner-v2.png" alt="Qaly: /qalyBuild" width="100%">
 
-# qalyBuild
+# Qaly
 
-**Ideas compartidas. Software construido en equipo.**
+**/qalyBuild — construir a la manera de Qaly.**
 
-Proyectos creados para conectar personas, organizar el trabajo y hacer que las buenas ideas avancen.
+En Qaly creamos proyectos para conectar personas, organizar el trabajo y hacer que las buenas ideas avancen.
 
 [Explorar openQomu](https://github.com/qalyBuild/openQomu) · [Documentación](https://github.com/qalyBuild/openQomu/blob/main/README.es.md) · [Contribuir](https://github.com/qalyBuild/openQomu/blob/main/CONTRIBUTING.md)
 
