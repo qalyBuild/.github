@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/qalyBuild/.github/main/profile/qalybuild-banner.svg" alt="qalyBuild" width="100%">
+<img src="https://raw.githubusercontent.com/qalyBuild/.github/main/profile/qalybuild-banner.png" alt="qalyBuild" width="100%">
 
 # qalyBuild
 
@@ -22,9 +22,9 @@ Un espacio de trabajo colaborativo y autoalojable que reúne conversaciones, tab
 
 💬 **Conversaciones** · 📋 **Tableros** · 📝 **Documentos** · 🗂️ **Archivos**
 
-Podés probarlo localmente o desplegarlo en tu propia infraestructura. El proyecto es de código abierto y está disponible bajo la licencia [AGPL-3.0](https://github.com/qalyBuild/openQomu/blob/main/LICENSE).
+Puedes probarlo localmente o desplegarlo en tu propia infraestructura. El proyecto es de código abierto y está disponible bajo la licencia [AGPL-3.0](https://github.com/qalyBuild/openQomu/blob/main/LICENSE).
 
-[Conocé el proyecto →](https://github.com/qalyBuild/openQomu)
+[Conoce el proyecto →](https://github.com/qalyBuild/openQomu)
 
 ---
 
