@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/qalyBuild/.github/main/profile/qalybuild-banner-v2.png" alt="Qaly: /qalyBuild" width="100%">
+<img src="https://raw.githubusercontent.com/qalyBuild/.github/main/profile/qalybuild-banner-dark.png" alt="Qaly: /qalyBuild" width="100%">
 
 # Qaly
 
