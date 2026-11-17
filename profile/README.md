@@ -6,7 +6,7 @@
 
 **/qalyBuild — construir a la manera de Qaly.**
 
-En Qaly creamos proyectos para conectar personas, organizar el trabajo y hacer que las buenas ideas avancen.
+Diseñamos, desarrollamos y damos vida a productos propios. Con curiosidad para explorar y criterio para cuidar cada detalle. Lo que no se ve también define una buena experiencia.
 
 [Explorar openQomu](https://github.com/qalyBuild/openQomu) · [Documentación](https://github.com/qalyBuild/openQomu/blob/main/README.es.md) · [Contribuir](https://github.com/qalyBuild/openQomu/blob/main/CONTRIBUTING.md)
 
@@ -18,11 +18,9 @@ En Qaly creamos proyectos para conectar personas, organizar el trabajo y hacer q
 
 ### [openQomu](https://github.com/qalyBuild/openQomu)
 
-Un espacio de trabajo colaborativo y autoalojable que reúne conversaciones, tableros Kanban, documentos y archivos en un mismo lugar.
+Un espacio de trabajo colaborativo y autoalojable que reúne conversaciones, tableros Kanban, documentos, archivos e integramos tus agentes de Inteligencia Artificial para asistirte en tu organización. Todo en un mismo lugar.
 
-💬 **Conversaciones** · 📋 **Tableros** · 📝 **Documentos** · 🗂️ **Archivos**
-
-Puedes probarlo localmente o desplegarlo en tu propia infraestructura. El proyecto es de código abierto y está disponible bajo la licencia [AGPL-3.0](https://github.com/qalyBuild/openQomu/blob/main/LICENSE).
+Se puede probar localmente o desplegarlo en tu propia infraestructura. El proyecto es de código abierto y está disponible bajo la licencia [AGPL-3.0](https://github.com/qalyBuild/openQomu/blob/main/LICENSE).
 
 [Conoce el proyecto →](https://github.com/qalyBuild/openQomu)
 
