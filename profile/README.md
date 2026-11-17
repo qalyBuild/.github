@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/qalyBuild/.github/main/profile/qalybuild-banner.svg" alt="qalyBuild" width="100%">
+
 # qalyBuild
 
 **Ideas compartidas. Software construido en equipo.**
